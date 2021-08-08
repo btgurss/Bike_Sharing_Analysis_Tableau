@@ -6,4 +6,10 @@ In this challenge, we are looking into starting a bike sharing business for Des 
 
 ## Results
 
+The following visualizations were created to show the city how and when riders were using the bike sharing service.
+
+### Checkout Times for Users
+![Checkout_Times_for_Users.png](Images/Checkout_Times_for_Users.png)
+
+### Checkout Times by Gender
 ![Checkout_Times_by_Gender.png](Images/Checkout_Times_by_Gender.png)
