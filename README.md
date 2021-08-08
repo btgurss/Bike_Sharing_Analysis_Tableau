@@ -21,3 +21,16 @@ This graph is very similar to the first graph, except it is specific to each gen
 
 ### Trips by Weekday per Hour
 ![Trips_by_Weekday_per_Hour.png](Images/Trips_by_Weekday_per_Hour.png)
+
+### Trips by Gender (Weekday per Hour)
+![Trips_by_Weekday_per_Hour.png](Images/Trips_by_Weekday_per_Hour.png)
+
+### User Trips by Gender by Weekday
+![Trips_by_Gender_per_Weekday.png](Images/Trips_by_Gender_per_Weekday.png)
+
+### Starting Locations
+![Starting_Locations.png](Images/Starting_Locations.png)
+
+### Starting Locations by Usertype
+![Starting_Locations_by_Usertype.png](Images/Starting_Locations_by_Usertype.png)
+
