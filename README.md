@@ -6,3 +6,4 @@ In this challenge, we are looking into starting a bike sharing business for Des 
 
 ## Results
 
+![Images/Checkout_Times_by_Gender.png]Checkout_Times_by_Gender.png)
