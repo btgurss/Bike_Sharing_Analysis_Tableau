@@ -16,12 +16,12 @@ This graph shows the distribution of ride duration for the bike program.  The ma
 
 ### Checkout Times by Gender
 ![Checkout_Times_by_Gender.png](Images/Checkout_Times_by_Gender.png)
-This graph is very similar to the first graph, except it is specific to each gender.  This graph shows that males use the service much more often than females.  It also shows that people who do not put their gender into the app tend to spend a little more time on the bike.  A graph that compares the usertypes to the trip duration will show that the "Unknown" genders are more than likely the "Customers" usertype.  I would guess they did not take the time to put their genders into the app knowing they would not use it for long.
+This graph is very similar to the first graph, except it is specific to each gender.  This graph shows that males use the service much more often than females.  It also shows that people who do not put their gender into the app tend to spend a little more time on the bike.  A graph that compares the usertypes to the trip duration will show that the "Unknown" genders are more than likely the "Customers" usertype.  I would guess they did not take the time to put their genders into the app knowing they would not use it more than once.
 
 
 ### Trips by Weekday per Hour
 ![Trips_by_Weekday_per_Hour.png](Images/Trips_by_Weekday_per_Hour.png)
-This graph shows the most popular times in which the bike sharing service was used.  It is clear from the heatmap that the 7 am - 9 am and the 5 pm- 7 pm time slots hafe the most usage.  This could be because users will bike to and from work.  If Des Moines was going to invest in the bike sharing service, they may need to be sure that the population of users lives close enough to successfully use the bikes.
+This graph shows the most popular times in which the bike sharing service was used.  It is clear from the heatmap that the 7 am - 9 am and the 5 pm- 7 pm time slots have the most usage.  This could be because users bike to and from work.  If Des Moines was going to invest in the bike sharing service, they may need to be sure that the population of users lives close enough to successfully use the bikes.
 
 ### Trips by Gender (Weekday per Hour)
 ![Trips_by_Weekday_per_Hour.png](Images/Trips_by_Weekday_per_Hour.png)
@@ -44,7 +44,7 @@ This map is very similar to the map above except it breaks things down into user
 In order for the bike sharing to work in the Des Moines area there are few things that I believe need to be in place:
 - The population needs to live near enough to work that biking is a legitimate option.  The majority of users in NYC seem to bike to and from work, so for this business to work in Des Moines the same thing needs to happen.
 - Most of the users in NYC are also subscribers.  To get this business rolling, getting people to sign up as a subscriber would be a priority.
-- There is a population of customers that will enjoy the bikes while in town.  This tells me that we do need to keep in mind that having the bikes near hotels and city attractions could elevate the business.
+- There is a population of customers that will enjoy the bikes while in town.  This tells me that we need to keep in mind that having the bikes near hotels and city attractions could elevate the business.
 
 ## Tableau Link
 [https://public.tableau.com/app/profile/bryan.gurss/viz/Module-14-Challenge_16275167565530/CitiBikeAnalysisStory?publish=yes]
